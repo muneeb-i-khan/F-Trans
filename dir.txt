@@ -1,0 +1,10 @@
+bcm_transformer/
+├── models/
+│   ├── __init__.py
+│   ├── bcm_layers.py
+│   └── bcm_transformer.py
+├── data/
+│   └── dataset.py
+├── utils/
+│   └── train_utils.py
+└── main.py
